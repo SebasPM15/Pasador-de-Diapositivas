@@ -1,2 +1,2 @@
 # Pasador-de-Diapositivas
-Este proyecto implementa un pasador de diapositivas simple y elegante utilizando HTML, CSS y JavaScript. Permite navegar entre diapositivas con botones de retroceso y avance, así como seleccionar diapositivas específicas desde una lista. 
+Este proyecto implementa un pasador de diapositivas simple y elegante utilizando HTML, CSS y JavaScript. Permite navegar entre diapositivas con botones de retroceso y avance, así como seleccionar diapositivas específicas desde una lista. El diseño ha sido optimizado para mejorar la usabilidad y la estética, utilizando transiciones suaves y un diseño responsivo. Ideal para presentaciones y galerías de imágenes interactivas.
